@@ -21,9 +21,10 @@ var searchData=
   ['doublecolumn_190',['DoubleColumn',['../namespacegs.html#a30613c1d0f0f221cd2f5ca070f6ed476',1,'gs']]],
   ['dst_5flabel_5f_191',['dst_label_',['../classgs_1_1SingleEdgeInsertTransaction.html#aba4f0feaa5bdadcc89a2449d2cf8511e',1,'gs::SingleEdgeInsertTransaction']]],
   ['dst_5fvid_5f_192',['dst_vid_',['../classgs_1_1SingleEdgeInsertTransaction.html#acf1e9b4c5d62b91d4d0ee341267ac2f6',1,'gs::SingleEdgeInsertTransaction']]],
-  ['dt_5fdouble_193',['DT_DOUBLE',['../namespacegs.html#aaa5caa91ebcdf6650e21e7494cd2c42c',1,'gs']]],
-  ['dt_5fsigned_5fint32_194',['DT_SIGNED_INT32',['../namespacegs.html#a251063d7e9031d87af2ea49266d71067',1,'gs']]],
-  ['dt_5fsigned_5fint64_195',['DT_SIGNED_INT64',['../namespacegs.html#ab5e1186594462759dd70535388589e7a',1,'gs']]],
-  ['dt_5fstring_196',['DT_STRING',['../namespacegs.html#a4c734b874469f900b17c4ebef163a682',1,'gs']]],
-  ['dump_5fto_5ffile_197',['dump_to_file',['../classgs_1_1mmap__array.html#adc6751a576c412050d3f791e712e7c67',1,'gs::mmap_array::dump_to_file()'],['../classgs_1_1mmap__array_3_01std_1_1string__view_01_4.html#ad5bcb053caeacd8937712ea706897c6c',1,'gs::mmap_array&lt; std::string_view &gt;::dump_to_file()']]]
+  ['dt_5fdate_193',['DT_DATE',['../namespacegs.html#a5b703cfd26bd0b3b102e2a82600cc9b1',1,'gs']]],
+  ['dt_5fdouble_194',['DT_DOUBLE',['../namespacegs.html#aaa5caa91ebcdf6650e21e7494cd2c42c',1,'gs']]],
+  ['dt_5fsigned_5fint32_195',['DT_SIGNED_INT32',['../namespacegs.html#a251063d7e9031d87af2ea49266d71067',1,'gs']]],
+  ['dt_5fsigned_5fint64_196',['DT_SIGNED_INT64',['../namespacegs.html#ab5e1186594462759dd70535388589e7a',1,'gs']]],
+  ['dt_5fstring_197',['DT_STRING',['../namespacegs.html#a4c734b874469f900b17c4ebef163a682',1,'gs']]],
+  ['dump_5fto_5ffile_198',['dump_to_file',['../classgs_1_1mmap__array.html#adc6751a576c412050d3f791e712e7c67',1,'gs::mmap_array::dump_to_file()'],['../classgs_1_1mmap__array_3_01std_1_1string__view_01_4.html#ad5bcb053caeacd8937712ea706897c6c',1,'gs::mmap_array&lt; std::string_view &gt;::dump_to_file()']]]
 ];
